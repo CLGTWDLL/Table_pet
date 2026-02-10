@@ -1,0 +1,10 @@
+../Core/Src/display.c:8:6:display_init	1
+../Core/Src/display.c:15:6:display_Temp_Hum	1
+../Core/Src/display.c:27:6:display_welcom	2
+../Core/Src/display.c:41:6:Face_Sleep	1
+../Core/Src/display.c:48:6:Face_Stare	1
+../Core/Src/display.c:55:6:Face_Happy	1
+../Core/Src/display.c:62:6:Face_Mania	1
+../Core/Src/display.c:69:6:Face_VeryHappy	1
+../Core/Src/display.c:76:6:Face_OpenEyes	1
+../Core/Src/display.c:83:6:Face_Xiaoxiao	1
